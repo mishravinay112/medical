@@ -1,0 +1,6 @@
+com\medical\repository\LoginRepository.class
+com\medical\model\DataFile.class
+com\medical\repository\RegisterRepository.class
+com\medical\connection\JdbcConfig.class
+com\medical\model\User.class
+com\medical\repository\DashboardRepository.class
